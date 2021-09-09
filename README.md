@@ -44,7 +44,7 @@ Where BotToken is the Token that BotFather provides you and HostAddres is the se
 
 
 ## References
-- [Video that I present the project - In portuguese](https://youbute.com)
+- [Video that I present the project - In portuguese](https://youtu.be/kcux_o1UDzs)
 
 - [Official TelegramBot library](https://core.telegram.org/bots/api)
 
